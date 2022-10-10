@@ -8,3 +8,8 @@ body{
 u{
 	color:  #000080	;
 }
+
+#imagem {width: 100%;
+	border: 3px solid black;
+
+}
