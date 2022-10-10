@@ -4,6 +4,9 @@ body{
 
 }
 
+p {
+	text-align: center;
+}
 
 u{
 	color:  #000080	;
@@ -12,4 +15,10 @@ u{
 #imagem {width: 100%;
 	border: 3px solid black;
 
+}
+
+.listaBandas {
+	color: yellowgreen;
+	font-size: 30px;
+	background: navy;
 }
